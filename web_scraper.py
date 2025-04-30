@@ -6,7 +6,7 @@ import random
 import time
 
 # Pixabay API key
-PIXABAY_API_KEY = '45268573-b8f1b0e4aaef89e7a84e8d16e'
+PIXABAY_API_KEY = 'YOUR_API_KEY_HERE'
 BASE_URL = 'https://pixabay.com/api/'
 
 # Set up paths
